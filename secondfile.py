@@ -1,4 +1,8 @@
 import random
+import subprocess
+def run_cmd():
+    subprocess.call("ls")
+
 print(1654543717)
 if 1654543717 == 1654543717:
     print("got here")
