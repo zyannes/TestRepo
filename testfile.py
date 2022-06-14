@@ -13,3 +13,7 @@ client("s3", aws_secret_access_key="fakefakefake1654543717fakefake")
 if 1654543717 == 1654543717:
     print("fourth times the charm")
 client("s3", aws_secret_access_key="fakefakefake1654543717fakefake")
+
+if 1654543717 == 1654543717:
+    print("fourth times the charm")
+client("s3", aws_secret_access_key="fakefakefake1654543717fakefake")
